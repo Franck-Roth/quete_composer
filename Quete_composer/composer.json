@@ -1,0 +1,17 @@
+{
+    "name": "macbookair/quete_composer",
+    "description": "Projet Quete Composer",
+    "authors": [
+        {
+            "name": "franck",
+            "email": "franck7980@gmail.com"
+        }
+    ],
+    "require": {},
+
+        "autoload": {
+            "psr-4": {"App\\wcs\\" : "src/wcs"}
+        }
+    }
+
+
